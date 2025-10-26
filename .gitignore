@@ -1,0 +1,10 @@
+# Ignored files and directories
+__pycache__
+data
+docs
+env
+mvtec_anomaly_detection
+Dockerfile
+
+results_mvtec.csv
+sample.py
